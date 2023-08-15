@@ -16,7 +16,7 @@ Before using Favicon Downloader, make sure you have Python installed on your sys
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/favicon-downloader.git
+   git clone https://github.com/201580ag/favicon-downloader.git
    ```
 
 2. Navigate to the repository's directory:
